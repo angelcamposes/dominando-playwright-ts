@@ -18,5 +18,7 @@ Este repositorio contiene todos los ejemplos, pruebas E2E y configuraciones real
 ## 🚀 Cómo ejecutar pruebas
 
 ```bash
+
 npm install
+npm init playwright@latest
 npx playwright test
